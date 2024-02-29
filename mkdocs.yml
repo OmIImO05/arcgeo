@@ -82,7 +82,7 @@ nav:
     - Examples:
         - examples/intro.ipynb
     - Lab4:
-        - lab4.ipynb
+        - Lab4/lab4.ipynb
     - API Reference:
           - arcgeo module: arcgeo.md
           - common module: common.md
