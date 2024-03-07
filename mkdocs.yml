@@ -81,8 +81,9 @@ nav:
     - Report Issues: https://github.com/Omiimo05/arcgeo/issues
     - Examples:
         - examples/intro.ipynb
-    - Lab4:
-        - Lab4/lab4.ipynb
+    - Labs:
+        - Labs/lab4.ipynb
+        - Labs/lab5.ipynb
     - API Reference:
           - arcgeo module: arcgeo.md
           - common module: common.md
