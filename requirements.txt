@@ -1,2 +1,6 @@
-numpy
 ipyleaflet
+numpy
+pandas
+pyshp
+geopandas
+localtileserver
